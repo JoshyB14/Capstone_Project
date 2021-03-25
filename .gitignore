@@ -9,3 +9,6 @@
 ### csv ###
 *.csv
 
+### ignore folder ###
+mimic_data/
+
