@@ -7,11 +7,5 @@
 *.code-workspace
 
 ### csv ###
-<<<<<<< HEAD
-*.csv
-
-### ignore folder ###
-mimic_data/
-=======
 #*.csv
->>>>>>> d4784998ded1bba3b467d13f71a59f9fe0f80413
+
